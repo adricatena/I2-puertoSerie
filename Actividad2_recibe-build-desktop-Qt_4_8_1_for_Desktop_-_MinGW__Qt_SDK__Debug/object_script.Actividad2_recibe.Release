@@ -1,0 +1,17 @@
+INPUT(
+./release\qextserialport.o
+./release\qextserialenumerator.o
+./release\qextserialport_win.o
+./release\qextserialenumerator_win.o
+./release\qextwineventnotifier_p.o
+./release\main.o
+./release\ventanaprincipal.o
+./release\portcfg.o
+./release\ventanaconfirmacion.o
+./release\ventanaarchivoexistente.o
+./release\moc_qextwineventnotifier_p.o
+./release\moc_ventanaprincipal.o
+./release\moc_portcfg.o
+./release\moc_ventanaconfirmacion.o
+./release\moc_ventanaarchivoexistente.o
+);
